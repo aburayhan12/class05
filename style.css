@@ -1,0 +1,106 @@
+body{
+    background-image: url("image/image2.jpg");
+    background-size: cover;
+    
+}
+
+.margin{
+    background-color: navajowhite;
+    text-align: center;
+    height: 250px;
+    width: 520px;
+    padding: 40px;
+    padding-bottom: 200px;
+    padding-bottom: 240px;
+    border: 2px dotted black;
+}
+
+.border{
+    background-color: blueviolet;
+    height: 200px;
+    width: 430px;
+    padding: 40px;
+    padding-bottom: 190px;
+    border: 2px dotted black;
+}
+
+.padding{
+    background-color: chartreuse;
+    height: 150px;
+    width: 340px;
+    padding: 40px;
+    padding-bottom: 140px;
+    border: 2px dotted black;
+}
+
+.content{
+    background-color: yellowgreen;
+    height: 80px;
+    width: 250px;
+    padding: 40px;
+    padding-bottom: 100px;
+    border: 2px dotted black;
+}
+
+
+.abtgbard{
+    text-align: center;
+    color: rgba(242, 234, 17, 0.93);
+    background-color: rgb(207, 100, 42);
+    width: 600px;
+    height: auto;
+    border-radius: 80px;
+    margin: auto;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+.fontdiv{
+    color: white;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.fontdiv>p{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.modiv{
+    display: inline-flex;
+    gap: 5px;
+}
+
+.div1{
+    background-color: yellow;
+    height: 200px;
+    width: 400px;
+    border: 20px solid red;
+    /* outline: 20px solid green; */
+    
+}
+.div2{
+    background-color: yellow;
+    height: 200px;
+    width: 400px;
+    border: 20px solid green;
+    /* outline: 10px solid red; */
+}
+
+.btn{
+    display: inline-flex;
+    gap: 10px;
+}
+.button1:hover{
+    outline: 4px solid fuchsia;
+}
+.button2:hover{
+    border: 4px solid fuchsia;
+}
+
+.ovr{
+    background-color: red;
+    height: 250px;
+    width: 400px;
+    overflow: auto;
+
+}

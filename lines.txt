@@ -1,0 +1,5 @@
+child
+font
+background color and image
+outline/border/hover
+display
